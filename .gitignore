@@ -48,4 +48,9 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-data/*.json
+data/gbifdownloads
+data/raw
+data/outputs/*.csv
+data/outputs/*.tsv
+data/outputs/*.txt
+data/outputs/*.json
