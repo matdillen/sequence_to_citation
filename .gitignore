@@ -48,9 +48,14 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
+# gbif download files
 data/gbifdownloads
+# other dataset files than cited downloads
 data/raw
+# unzipped outputs
 data/outputs/*.csv
 data/outputs/*.tsv
 data/outputs/*.txt
 data/outputs/*.json
+# unzipped output archives to subdirs
+data/outputs/*/
